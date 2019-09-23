@@ -1,0 +1,56 @@
+
+
+.header{
+  background-color: black;
+  color: white;
+  height: 25px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+
+}
+.slider{
+
+}
+.slider-img{
+  margin-top: 15px;
+  margin-left: 12px;
+  height: 600px;
+  width: 1300px;
+
+}
+.maba{
+  background-image: linear-gradient(to right, #759c9c, #52c4c4 80% ,white);
+
+}
+.image{
+  position: relative;
+  margin-top: 50px;
+  height: 15%;
+  width: 15%;
+  float: left;
+  margin-top: 15px;
+}
+
+.card{
+  border-top: solid thin black;
+  border-bottom: solid thin black;
+  width: 110%;
+}
+.p-text{
+  column-count: 4;
+  text-align: justify;
+  column-rule: 2px solid black;
+  column-gap: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+background-image: linear-gradient(to right, #759c9c, #52c4c4 30% ,white);
+
+}
+
+.footer{
+  height: 50px;
+  text-align: center;
+  color: white;
+  background-color: black;
+}
